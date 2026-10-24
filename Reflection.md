@@ -13,7 +13,7 @@ I fixed it with try / except, which prints a message
 instead of crashing. I also tested newton_cbrt(27) for the cube root.
 
 
-- Princilia DASSI :
+- Princilia DACI :
 - Josué OMOLOHOSO :
 - Aby BA :
 - Oumar SOW :
