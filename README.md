@@ -73,7 +73,7 @@ print(newton_sqrt(-4))
 # The square root of -4 doesn't exist
 ```
 
-### Example 2: zero,a=0
+### Example 2: 0,a=0
 
 \- `0` is already a number, so `convert` keeps it.
 
