@@ -32,12 +32,7 @@ While working on my programs for the Newton method and the bisection method, I e
 
 ## Global conclusion
 
-Each member first wrote his or her own version of the code. Then we compared
-them and chose to keep Prinicilia DASSI code as the final version.
-Then some modifications was made into it for having the final version.
-
-The final README.md has two parts: the first part was written by
-Prinicilia DASSI and the second part by Mouhammadou DIA.
+Each member first wrote his or her own version of the code. That helped on ensuring that each one understood the project and favorized the discussions related to the choice of the final program to go on.  Then we compared them and chose to keep Prinicilia DASSI code as the final version. Then some modifications was made into it for having the final version. The final README.md has two parts: the first part was written by Prinicilia DASSI and the second part by Mouhammadou DIA.
 
 ## One bug we had and how we resolved it
 
