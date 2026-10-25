@@ -11,7 +11,7 @@
 In my code, I used two methods to calculate the square root of a number: Newton’s method and the bisection method. I added a counter to track the number of steps taken by each method. Both methods provide an approximation of the square root.
 
 
-- Princilia DASSI :
+- Princilia DACI :
 
 I first wrote my own complete version of the code. In it, I added the function convert, because we don't know what the user will type: it first turns the input into a number, keeps the minus sign aside, and cuts at the point to rebuild decimal numbers, so "0.25" or "-4" are accepted. I also added an if condition just after convert in newton_sqrt and bisection_sqrt, so the function stops and gives back a message when the input is not a number, instead of crashing. While testing, I fixed the minus sign that was lost for decimal numbers. Then I put my version together with the ideas of the others to finalize the code we submit.
 
