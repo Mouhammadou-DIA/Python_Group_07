@@ -27,9 +27,8 @@ While working on my programs for the Newton method and the bisection method, I e
 
 
 - Oumar SOW :
-
-
-
+I wrote two Python functions to calculate the square root of a number: Newton’s method and the bisection method.I had forgotten to handle the case where (a=0), which caused an error instead of returning 0. I fixed this by adding a specific condition and also handled negative numbers. Newton’s method improves an initial guess, while bisection progressively reduces an interval until the desired precision is reached. Finally, I tested both methods and found that Newton’s method generally converges faster.
+ In the extra (optional) part, I forgot to convert the initial value x = a to a float instead of keeping it as an integer. I fixed this by using x = float(a) to ensure that the calculations work correctly with decimal values. 
 ## Global conclusion
 
 Each member first wrote his or her own version of the code. That helped on ensuring that each one understood the project and favorized the discussions related to the choice of the final program to go on.  Then we compared them and chose to keep Prinicilia DASSI code as the final version. Then some modifications was made into it for having the final version. The final README.md has two parts: the first part was written by Prinicilia DASSI and the second part by Mouhammadou DIA.
