@@ -18,7 +18,7 @@ I first wrote my own complete version of the code. In it, I added the function c
 
 - Mouhammadou DIA :
 
-I’m thinking more along these lines: I wrote my own version of the code, adhering to the conditions specified in the context. In particular, I had to test negative values, such as -1, which triggered a `ZeroDivisionError`; this led me to implement `try` and `except` blocks to handle such cases. Furthermore, it should be noted that for `newton_cbrt`, I had to incorporate an additional condition specific to calculating a cube root, which differed from the logic used in the initial version. Finally, I completed the "think and explain" section in the `README.md` file and included the results for $a=2$ and $a=3$ for each method.
+I wrote my own version of the code, adhering to the conditions specified in the context. In particular, I had to test negative values, such as -1, which triggered a `ZeroDivisionError`; this led me to implement `try` and `except` blocks to handle such cases. Furthermore, it should be noted that for `newton_cbrt`, I had to incorporate an additional condition specific to calculating a cube root, which differed from the logic used in the initial version. Finally, I completed the "think and explain" section in the `README.md` file and included the results for $a=2$ and $a=3$ for each method.
 
 
 - Josué OMOLOHOSO :
